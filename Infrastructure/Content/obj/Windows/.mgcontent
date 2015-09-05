@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Tools/VS13Workspace/Hit/XNA/C15 Ex04 RamiMoshe 302848197 BorisBorshvsky 311898746/Infrastructure/Content/Screens/blank.png</File>
+    <File>C:/Tools/VS13Workspace/Hit/XNA/C15 Ex04 RamiMoshe 302848197 BorisBorshvsky 311898746/Infrastructure/Content/Screens/gradient.png</File>
+  </SourceFiles>
+</SourceFileCollection>
